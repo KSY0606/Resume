@@ -47,7 +47,7 @@ SOFTOFRUM을 토대로 만든 반응형 메인페이지 입니다.
 </a>
 
 <br><br><br><br>
-<a href="https://ksy0606.github.io/bungaeMarket"><strong>Staying</strong></a>
+<strong>Staying</strong>
 
 전주에 위치한 숙소들의 위치, 객실정보 등을 파악 할 수 있고 예약이 가능한 페이지 입니다.
 
