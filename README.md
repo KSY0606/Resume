@@ -13,11 +13,25 @@
 # Project
 <a href="https://ksy0606.github.io/SOFTFORUM">소프트포럼</a>
 
-<a href="https://ksy0606.github.io/bungaeMarket">번개장터</a>
+
+
+
+
+
+
+<a href="https://ksy0606.github.io/bungaeMarket"><strong>번개장터</strong></a>
+
+번개장터를 토대로 만든 페이지 입니다.
+
+used skill: Html, Css, Bootstrap, Javascript, Jquery
+
+2022.12.20 ~ 2023.01.04
 
 
 <img width="400px" src="https://user-images.githubusercontent.com/98162336/216006917-927c69de-d1b4-4bad-8e0d-fcc15fb80c39.gif"/>
 
+
 <a href="https://github.com/KSY0606/bungaeMarket">
-<img src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
+  repository
+  <img width="30px" src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
 </a>
