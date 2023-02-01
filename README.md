@@ -18,4 +18,6 @@
 
 <img width="400px" src="https://user-images.githubusercontent.com/98162336/216006917-927c69de-d1b4-4bad-8e0d-fcc15fb80c39.gif"/>
 
-<a href="https://github.com/KSY0606/bungaeMarket">번개장터 깃허브</a>
+<a href="https://github.com/KSY0606/bungaeMarket">
+<img src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
+</a>
