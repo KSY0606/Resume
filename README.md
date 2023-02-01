@@ -54,7 +54,7 @@ used skill: Html, Css, Bootstrap, Javascript, Jquery
 
 제작 인원 : 3명 ( 프론트엔드 2명, 백엔드 1명 )
 
-<p color="red">2022.10.25 ~ 2023.11.23</p>
+<p style="color:red">2022.10.25 ~ 2023.11.23</p>
 
 
 <a href="https://github.com/KSY0606/bungaeMarket">
