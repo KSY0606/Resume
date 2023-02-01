@@ -57,6 +57,7 @@ used skill: Html, Css, Bootstrap, Javascript, Jquery
 
 기간 : 2022.10.25 ~ 2023.11.23
 
+<img width="400px" src="https://user-images.githubusercontent.com/98162336/216032250-ff03c138-751d-4f15-86ba-10856393547e.png"/>
 
 <a href="https://github.com/KSY0606/Staying-FrontEnd">
   <img width="30px" src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
