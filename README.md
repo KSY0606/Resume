@@ -12,6 +12,7 @@
 <br><br>
 
 # Project
+<br>
 <a href="https://ksy0606.github.io/SOFTFORUM"><strong>SOFTOFRUM</strong></a>
 
 SOFTOFRUM을 토대로 만든 반응형 메인페이지 입니다.
@@ -24,8 +25,8 @@ used skill: Html, Css, Bootstrap, Javascript
 
 
 <a href="https://github.com/KSY0606/SOFTFORUM">
-  repository
   <img width="30px" src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
+  repository
 </a>
 
 <br><br><br><br>
@@ -41,8 +42,8 @@ used skill: Html, Css, Bootstrap, Javascript, Jquery
 <img width="400px" src="https://user-images.githubusercontent.com/98162336/216006917-927c69de-d1b4-4bad-8e0d-fcc15fb80c39.gif"/>
 
 <a href="https://github.com/KSY0606/bungaeMarket">
-  repository
   <img width="30px" src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
+  repository
 </a>
 
 <br><br><br><br>
@@ -54,10 +55,12 @@ used skill: Html, Css, Bootstrap, Javascript, Jquery
 
 제작 인원 : 3명 ( 프론트엔드 2명, 백엔드 1명 )
 
-<span style="color:red">2022.10.25 ~ 2023.11.23</span>
+<span style="color:red"> 기간 : 2022.10.25 ~ 2023.11.23</span>
+<span style="color=red"> 기간 : 2022.10.25 ~ 2023.11.23</span>
+<span style="color:orange"> 기간 : 2022.10.25 ~ 2023.11.23</span>
 
 
-<a href="https://github.com/KSY0606/bungaeMarket">
-  repository
+<a href="https://github.com/KSY0606/Staying-FrontEnd">
   <img width="30px" src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
+  repository
 </a>
