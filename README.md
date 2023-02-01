@@ -13,7 +13,7 @@
 # Project
 <a href="https://ksy0606.github.io/SOFTFORUM">소프트포럼</a>
 
-<a href="ksy0606.github.io/bungaeMarket">번개장터</a>
+<a href="https://ksy0606.github.io/bungaeMarket">번개장터</a>
 
 
 
