@@ -15,4 +15,5 @@
 
 <a href="https://ksy0606.github.io/bungaeMarket">번개장터</a>
 
-<a href="https://user-images.githubusercontent.com/98162336/216005745-eaeeab96-1574-47ed-8cda-54bd32061121.gif">d</a>
+
+<img width="400px" src="https://user-images.githubusercontent.com/98162336/216006917-927c69de-d1b4-4bad-8e0d-fcc15fb80c39.gif"/>
