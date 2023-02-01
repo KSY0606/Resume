@@ -17,7 +17,7 @@
 
 SOFTOFRUM을 토대로 만든 반응형 메인페이지 입니다.
 
-used skill: Html, Css, Bootstrap, Javascript
+<strong>used skill</strong>: Html, Css, Bootstrap, Javascript
 
 기간 : 2023.01.18 ~ 2023.01.19
 
@@ -34,7 +34,7 @@ used skill: Html, Css, Bootstrap, Javascript
 
 번개장터를 토대로 만든 페이지 입니다.
 
-used skill: Html, Css, Bootstrap, Javascript, Jquery
+<strong>used skill</strong>: Html, Css, Bootstrap, Javascript, Jquery
 
 기간 : 2022.12.20 ~ 2023.01.04
 
@@ -51,7 +51,7 @@ used skill: Html, Css, Bootstrap, Javascript, Jquery
 
 전주에 위치한 숙소들의 위치, 객실정보 등을 파악 할 수 있고 예약이 가능한 페이지 입니다.
 
-used skill: Html, Css, Bootstrap, Javascript, Jquery
+<strong>used skill</strong>: Html, Css, Bootstrap, Javascript, Jquery
 
 제작 인원 : 3명 ( 프론트엔드 2명, 백엔드 1명 )
 
