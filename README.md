@@ -55,9 +55,7 @@ used skill: Html, Css, Bootstrap, Javascript, Jquery
 
 제작 인원 : 3명 ( 프론트엔드 2명, 백엔드 1명 )
 
-<span style="color:red"> 기간 : 2022.10.25 ~ 2023.11.23</span>
-<span style="color=red"> 기간 : 2022.10.25 ~ 2023.11.23</span>
-<span style="color:orange"> 기간 : 2022.10.25 ~ 2023.11.23</span>
+기간 : 2022.10.25 ~ 2023.11.23
 
 
 <a href="https://github.com/KSY0606/Staying-FrontEnd">
