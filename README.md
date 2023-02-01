@@ -20,6 +20,7 @@ used skill: Html, Css, Bootstrap, Javascript
 2023.01.18 ~ 2023.01.19
 
 
+<img width="400px" src="https://user-images.githubusercontent.com/98162336/216019420-0305d4f4-34ed-43a1-9f64-11b3cab1a7ae.gif"/>
 
 
 <a href="https://ksy0606.github.io/bungaeMarket"><strong>번개장터</strong></a>
