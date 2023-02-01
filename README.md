@@ -11,16 +11,13 @@
 
 
 # Project
-<a href="https://ksy0606.github.io/SOFTFORUM"><strong>소프트포럼</strong></a>
+<a href="https://ksy0606.github.io/SOFTFORUM"><strong>SOFTOFRUM</strong></a>
 
-OSFTOFRUM을 토대로 만든 페이지 입니다.
+SOFTOFRUM을 토대로 만든 반응형 메인페이지 입니다.
 
 used skill: Html, Css, Bootstrap, Javascript
 
-2022.12.20 ~ 2023.01.04
-
-
-
+2023.01.18 ~ 2023.01.19
 
 
 
