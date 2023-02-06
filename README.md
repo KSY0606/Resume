@@ -63,3 +63,5 @@ SOFTOFRUM을 토대로 만든 반응형 메인페이지 입니다.
   <img width="30px" src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
   repository
 </a>
+<br><br><br><br>
+<img src="https://user-images.githubusercontent.com/98162336/216952983-1c74486d-423d-43e8-a4dd-9dd74b8291fc.mp4"/>
