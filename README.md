@@ -67,8 +67,8 @@ SOFTOFRUM을 토대로 만든 반응형 메인페이지 입니다.
 <br><br><br><br>
 <strong>react-movie</strong>
 
-API를 사용하여 영화 정보를 받아와 제작한 웹입니다.
-react-router-dom을 사용하여 영화의 key값을 받아 상세 페이지를 구성하였습니다.
+API를 사용하여 영화 정보를 받아와 제작한 웹입니다.react-router-dom을
+<br>사용하여 영화의 key값을 받아 상세 페이지를 구성하였습니다.
 
 <strong>used skill</strong>: react, css-module
 
