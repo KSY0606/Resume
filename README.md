@@ -13,6 +13,23 @@
 
 # Project
 <br>
+<a href="https://ksy0606.github.io/reservation"><strong>여기어때</strong></a>
+
+여기어때를 토대로 만든 페이지 입니다.
+
+<strong>used skill</strong>: Html, Css, Bootstrap, Javascript, Jquery
+
+기간 : 2023.02.13 ~ 2023.02.20
+
+<img width="400px" src="https://user-images.githubusercontent.com/98162336/220052217-900138c4-32e3-4110-a93f-4f18622be1e0.gif"/>
+
+
+<a href="https://github.com/KSY0606/reservation">
+  <img width="30px" src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
+  repository
+</a>
+
+<br><br><br><br>
 <a href="https://ksy0606.github.io/SOFTFORUM"><strong>SOFTOFRUM</strong></a>
 
 SOFTOFRUM을 토대로 만든 반응형 메인페이지 입니다.
