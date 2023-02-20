@@ -29,6 +29,26 @@
   repository
 </a>
 
+
+
+
+<br><br><br><br>
+<strong>react-movie</strong>
+
+API를 사용하여 영화 정보를 받아와 제작한 웹입니다.react-router-dom을
+<br>사용하여 영화의 key값을 받아 상세 페이지를 구성하였습니다.
+
+<strong>used skill</strong>: react, css-module
+
+기간 : 2023.02.01 ~ 2023.02.02
+
+<img width="400px" src="https://user-images.githubusercontent.com/98162336/216956600-11e34c72-4c59-4ebf-84c9-961d386e1e51.gif"/>
+
+<a href="https://github.com/KSY0606/movie">
+  <img width="30px" src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
+  repository
+</a>
+
 <br><br><br><br>
 <a href="https://ksy0606.github.io/SOFTFORUM"><strong>SOFTOFRUM</strong></a>
 
@@ -77,23 +97,6 @@ SOFTOFRUM을 토대로 만든 반응형 메인페이지 입니다.
 <img width="400px" src="https://user-images.githubusercontent.com/98162336/216032250-ff03c138-751d-4f15-86ba-10856393547e.png"/>
 
 <a href="https://github.com/KSY0606/Staying-FrontEnd">
-  <img width="30px" src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
-  repository
-</a>
-
-<br><br><br><br>
-<strong>react-movie</strong>
-
-API를 사용하여 영화 정보를 받아와 제작한 웹입니다.react-router-dom을
-<br>사용하여 영화의 key값을 받아 상세 페이지를 구성하였습니다.
-
-<strong>used skill</strong>: react, css-module
-
-기간 : 2022.12.20 ~ 2023.01.04
-
-<img width="400px" src="https://user-images.githubusercontent.com/98162336/216956600-11e34c72-4c59-4ebf-84c9-961d386e1e51.gif"/>
-
-<a href="https://github.com/KSY0606/movie">
   <img width="30px" src="https://user-images.githubusercontent.com/98162336/216009772-23919280-8582-43f9-9428-85934a72474e.png"/>
   repository
 </a>
