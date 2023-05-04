@@ -90,7 +90,7 @@ SOFTOFRUM을 토대로 만든 반응형 메인페이지 입니다.
 
 <strong>used skill</strong>: Html, Css, Bootstrap, Javascript, Jquery
 
-제작 인원 : 3명 ( 프론트엔드 2명, 백엔드 1명 )
+제작 인원 : 3명
 
 기간 : 2022.10.25 ~ 2023.11.23
 
